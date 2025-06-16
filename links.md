@@ -1,0 +1,2 @@
+[blog](https://blg.trobson.me/)
+[github](https://github.com/albertoNilWisdom)
