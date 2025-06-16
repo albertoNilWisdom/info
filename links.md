@@ -1,3 +1,3 @@
 - [blog](https://blg.trobson.me/)
 - [github](https://github.com/albertoNilWisdom)
-- [contact me](https://trobson.me/info.html)
+- [contact](https://trobson.me/info.html)
