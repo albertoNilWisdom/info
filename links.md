@@ -1,2 +1,2 @@
-[blog](https://blg.trobson.me/)
-[github](https://github.com/albertoNilWisdom)
+- [blog](https://blg.trobson.me/)
+- [github](https://github.com/albertoNilWisdom)
