@@ -1,3 +1,4 @@
 - [blog](https://blg.trobson.me/)
 - [github](https://github.com/albertoNilWisdom)
 - [contact](https://trobson.me/info.html)
+- [resume / curriculum vitae](https://trobson.me/cv.html)
