@@ -1,4 +1,4 @@
-# **Curriculum Vitae – [Edward Robson]**
+# **Resume / Curriculum Vitae**
 
 ---
 
