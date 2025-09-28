@@ -1,6 +1,6 @@
 ## Technical Skills
 
-- **Databases & Querying:** Microsoft SQL Server, MySQL, T‑SQL, SSIS, SSRS
+- **Databases & Querying:** Microsoft SQL Server, MySQL, T‑SQL, SSIS, SSRS, Azure Data Factory
 - **Automation / RPA:** UiPath, Automation Anywhere, Selenium
 - **Cloud Platforms:** Microsoft Azure (VMs, storage, networking), Linode
 - **Operating Systems:** Linux administration, Windows 10/11
